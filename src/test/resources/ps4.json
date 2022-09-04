@@ -1,0 +1,12 @@
+{
+  "name": "PS4",
+  "color": "black",
+  "price": 29990,
+  "isProVersion": false,
+  "currentOwner": null,
+  "bestGames": [
+    "Last_of_Us_2",
+    "Detroit:_Become_Human",
+    "Red_Dead_Redemption_2"
+  ]
+}
