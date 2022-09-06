@@ -9,8 +9,8 @@ import java.io.InputStreamReader;
 import java.util.*;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
-import static com.codeborne.pdftest.assertj.Assertions.assertThat;
 import static java.nio.charset.StandardCharsets.UTF_8;
+import static org.assertj.core.api.Assertions.assertThat;
 
 public class TestFiles {
     ZipFile zf;
